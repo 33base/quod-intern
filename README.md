@@ -22,3 +22,7 @@ a,b,c,d,e,f,g,h,i,j
 
 ![Screenshot](img/Screenshot4.png)
 
+## Task 6 - Create a situation where you have the following files open in Vim FILE1...FILE20. And put all files to sleep in the same bash instance. This will leave you with 20 Vim instances. Kill all files with pattern "FILE1" using a for loop. (see if you can do this in a single line).
+
+![Screenshot](img/Screenshot5.png)
+![Screenshot](img/Screenshot6.png)
