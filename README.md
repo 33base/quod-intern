@@ -17,3 +17,8 @@ a,b,c,d,e,f,g,h,i,j
 
 ![Screenshot](img/Screenshot3.png)
 ![Screenshot](img/Screenshot2.png)
+
+## Task 5 - Synchronize data form 1st Linux VM to 2nd Linux VM in the folder /home/<user>/myfolder every 5 minutes (install 2 VMs with Centos for this task). Try doing it with both rsync and scp.
+
+![Screenshot](img/Screenshot4.png)
+
