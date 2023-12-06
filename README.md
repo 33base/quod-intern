@@ -11,4 +11,4 @@ f;g,h!;i8j-
 # To this - output file
 a,b,c,d,e,f,g,h,i,j
 ```
-![Screenshot](/img/Screenshot)
+![Screenshot](img/Screenshot1.png)
